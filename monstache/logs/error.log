@@ -1,0 +1,2 @@
+ERROR 2022/11/22 11:03:04 Error starting change stream: (Location40573) The $changeStream stage is only supported on replica sets
+ERROR 2022/11/22 11:03:04 key "operationTime" was not found
